@@ -1,4 +1,5 @@
 <html>
+  <theme: MIDNIGHT>
   <head>
     <meta charset="utf-8">
     Random site
