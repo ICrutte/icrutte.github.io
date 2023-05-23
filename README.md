@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>My test page</title>
   </head>
   <body>
     <h1>How did we get here?</h1>
