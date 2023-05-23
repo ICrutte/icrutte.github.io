@@ -4,8 +4,10 @@
     Random site <a href=shitpost site</a>
   </head>
   <h1>How did we get here?</h1>
+  <img src="images/how.png" alt="MineCraft Achievement">
+  </head>
   <body>
-    <img src="images/disboi.png" alt="The finest boi">
+    <img src="images/disboi.jpg" alt="The finest boi">
 
     <p>The purpuse of this list is:</p>
 
