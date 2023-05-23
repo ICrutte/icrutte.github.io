@@ -1,9 +1,8 @@
 <html>
-  <theme: MIDNIGHT>
   <head>
     <meta charset="utf-8">
-    Random site
   </head>
+  <h1>How did we get here?</h1>
   <img src="images/how.png" alt="How did we get here?">
   
   <body>
