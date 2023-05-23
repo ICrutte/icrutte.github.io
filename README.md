@@ -5,7 +5,7 @@
     <title>My test page</title>
   </head>
   <body>
-    <h1>Mozilla is cool</h1>
+    <h1>How did we get here?</h1>
     <img src="images/big lad.png" alt="The Firefox logo: a flaming fox surrounding the Earth.">
 
     <p>At Mozilla, we’re a global community of</p>
