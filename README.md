@@ -5,7 +5,7 @@
    <body>
     <img src="images/disboi.jpg" alt="The finest boi">
      
-    <p>This is a project for CSC-180M Technology And Disability for the Spring term of 2023. This site is a time killer, with a prize. My mom's cat is hiding somewhere in this site, can you find him? First person to find him wins $20. <"it's something"></p>
+    <p>This is a project for CSC-180M Technology And Disability for the Spring term of 2023. This site is a time killer, with a prize. My mom's cat is hiding somewhere in this site, can you find him? First person to find him wins $20. <!-- it's something --></p>
     <p>The purpuse of this list is:</p>
 
     <ul> 
