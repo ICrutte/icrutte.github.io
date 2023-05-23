@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>How did we get here?</h1>
-    <img src="wiki/home" alt="The Firefox logo: a flaming fox surrounding the Earth.">
+    <img src=images/dis boi.jpg" alt="A fine boi.">
 
     <p>At Mozilla, we’re a global community of</p>
 
