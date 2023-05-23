@@ -4,7 +4,7 @@
     Random site
   </head>
   <img src="images/how.png" alt="How did we get here?">
-  </head>
+  
   <body>
     <img src="images/disboi.jpg" alt="The finest boi">
 
