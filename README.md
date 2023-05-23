@@ -1,10 +1,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-    Random site <a href=shitpost site</a>
+    Random site
   </head>
-  <h1>How did we get here?</h1>
-  <img src="images/how.png" alt="MineCraft Achievement">
+  <img src="images/how.png" alt="How did we get here?">
   </head>
   <body>
     <img src="images/disboi.jpg" alt="The finest boi">
