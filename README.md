@@ -41,7 +41,7 @@ body {
 .content {
   background-color: #ddd;
   padding: 10px;
-  height: 2000px; /* Should be removed. Only for demonstration */
+  height: 800px; /* Should be removed. Only for demonstration */
 }
 
 /* Style the footer */
@@ -57,6 +57,7 @@ body {
   <a href="Fitness">Fitness</a>
   <a href="#">Class</a>
   <a href="#">Yes</a>
+  <a href="images/Screenshot 2023-05-24 at 11-01-51 20220712_154733.jpg (JPEG Image 582 × 858 pixels).png">Moth of judgement</a>
 </div>
 
 <div class="content">
