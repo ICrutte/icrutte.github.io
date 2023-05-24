@@ -33,8 +33,8 @@ body {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #111;
+  color: white;
 }
 
 /* Style the content */
@@ -58,7 +58,6 @@ body {
   <a href="#">Class</a>
   <a href="#">Yes</a>
   <a href="images/MofJ.png">Moth of judgement</a>
-  <a href="styles/style.css">test</a>
 </div>
 
 <div class="content">
