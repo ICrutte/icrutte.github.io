@@ -54,7 +54,7 @@ body {
 <body>
 
 <div class="topnav">
-  <a href="Fitness">Fitness</a>
+  <a href="FIT/Fitness">Fitness</a>
   <a href="#">Class</a>
   <a href="#">Yes</a>
   <a href="images/MofJ.png">Moth of judgement</a>
