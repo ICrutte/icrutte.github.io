@@ -56,7 +56,7 @@ body {
 <div class="topnav">
   <a href="https://github.com/ICrutte/icrutte.github.io-Fitness">Fitness</a>
   <a href="#">Class</a>
-  <a href="#">Yes</a>
+  <a href="letter.html">Yes</a>
   <a href="images/MofJ.png">Moth of judgement</a>
 </div>
 
