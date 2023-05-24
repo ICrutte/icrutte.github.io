@@ -1,7 +1,7 @@
 <html>
 <html lang="en">
 <head>
-<title><img src="images/Screenshot 2023-05-23 at 15-04-56 hello there - Google Search.png" alt="Hello there"></title>
+<title>My website</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -60,8 +60,9 @@ body {
 </div>
 
 <div class="content">
-  <h2>CSS Template</h2>
-  <p>A topnav, content and a footer.</p>
+  <h2>Hello there</h2>
+  <p><img src="images/Screenshot 2023-05-23 at 15-04-56 hello there - Google Search.png" alt="Hello there"></p>
+  <p>This is a project for CSC-180M Technology And Disability for the Spring term of 2023. This site is a time killer, with a prize. My <a href="images/huh.png">mom's cat</a> is hiding somewhere in this site, can you find him? <!--First person to find him wins $20.--> <!-- it's something -->He could be a hyper link, he could be in the code, he could be anywhere.</p>
 </div>
 
 </body>
