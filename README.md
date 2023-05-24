@@ -55,7 +55,7 @@ body {
 
 <div class="topnav">
   <a href="fitness.html">Fitness</a>
-  <a href="#">Class</a>
+  <a href="class.html">Class</a>
   <a href="letter.html">Yes</a>
   <a href="images/MofJ.png">Moth of judgement</a>
 </div>
