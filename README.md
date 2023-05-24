@@ -54,6 +54,7 @@ body {
 <body>
 
 <div class="topnav">
+  <a href="icrutte.github.io">Home</a>
   <a href="fitness.html">Fitness</a>
   <a href="yes.html">Yes</a>
   <a href="class.html">Class</a>
