@@ -41,7 +41,7 @@ body {
 .content {
   background-color: #ddd;
   padding: 10px;
-  height: 200px; /* Should be removed. Only for demonstration */
+  height: 2000px; /* Should be removed. Only for demonstration */
 }
 
 /* Style the footer */
@@ -54,7 +54,7 @@ body {
 <body>
 
 <div class="topnav">
-  <a href="Fitness"target="_blank">Fitness</a>
+  <a href="Fitness">Fitness</a>
   <a href="#">Class</a>
   <a href="#">Yes</a>
 </div>
@@ -62,7 +62,7 @@ body {
 <div class="content">
   <h2>Hello there</h2>
   <p><img src="images/Screenshot 2023-05-23 at 15-04-56 hello there - Google Search.png" alt="Hello there"></p>
-  <p>This is a project for CSC-180M Technology And Disability for the Spring term of 2023. This site is a time killer, with a prize. My <a href="images/huh.png">mom's cat</a> is hiding somewhere in this site, can you find him? <!--First person to find him wins $20.--> <!-- it's something -->He could be a hyper link, he could be in the code, he could be anywhere.</p>
+  <p>This is a project for CSC-180M Technology And Disability for the Spring term of 2023. This site is a time killer, with a prize. My <a href="images/huh.png">mom's cat</a> is hiding somewhere in this site, can you find him? <!--First person to find him wins $20.--> <!-- it's something --></p>
 </div>
 
 </body>
