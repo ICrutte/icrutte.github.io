@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
-<title>CSS Template</title>
+<title><img src="images/Screenshot 2023-05-23 at 15-04-56 hello there - Google Search.png" alt="Hello there"></title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -54,18 +54,14 @@ body {
 <body>
 
 <div class="topnav">
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#">Link</a>
+  <a href="#">Fitness</a>
+  <a href="#">Class</a>
+  <a href="#">Yes</a>
 </div>
 
 <div class="content">
   <h2>CSS Template</h2>
   <p>A topnav, content and a footer.</p>
-</div>
-
-<div class="footer">
-  <p>Footer</p>
 </div>
 
 </body>
