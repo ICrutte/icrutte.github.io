@@ -58,6 +58,7 @@ body {
   <a href="#">Class</a>
   <a href="#">Yes</a>
   <a href="images/MofJ.png">Moth of judgement</a>
+  <a href="styles/style.css">test</a>
 </div>
 
 <div class="content">
