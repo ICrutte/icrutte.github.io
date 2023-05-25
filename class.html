@@ -13,7 +13,7 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background-color:black;
+  background-color:#101010;
 }
 
 /* Style the top navigation bar */
