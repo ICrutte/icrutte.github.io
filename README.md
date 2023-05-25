@@ -66,8 +66,8 @@ body {
   <h2>Hello there</h2>
   <p><img src="images/Screenshot 2023-05-23 at 15-04-56 hello there - Google Search.png" alt="Hello there"></p>
   <p>This is a project for CSC-180M Technology And Disability for the Spring term of 2023. This site is a time killer, a scavenger hunt <!-- Sort of --> My <a href="images/huh.png">mom's cat</a> is hiding somewhere in this site, can you find her<a href="images/find-the-missing-letters.png">?</a>
+    
 </div>
-
 </body>
 </html>
 
