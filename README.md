@@ -59,16 +59,16 @@ body {
   <a href="fitness.html">Fitness</a>
   <a href="yes.html">Yes</a>
   <a href="class.html">Class</a>
-  <a href="images/disboi.jpg">Moth of judgement</a>
-</div>
+  <a href="images/disboi.jpg">Moth of judgement</a> 
+</div> <!--The purpose of these are just to distract you, waste your time, and, hopefully, make you laugh at some of the images or memes here.-->
 
 <div class="content">
   <h2>Hello there</h2>
   <p><img src="images/Screenshot 2023-05-23 at 15-04-56 hello there - Google Search.png" alt="Hello there"></p>
-  <p>This is a project for CSC-180M Technology And Disability for the Spring term of 2023. This site is a time killer, a scavenger hunt <!-- Sort of --> My <a href="images/huh.png">mom's cat</a> is hiding somewhere in this site, can you find her<a href="images/find-the-missing-letters.png">?</a>
-    
+  <p>This is a project for CSC-180M Technology And Disability for the Spring term of 2023. This site is a time killer, a scavenger hunt <!-- Sort of --> My <a href="images/huh.png">mom's cat</a> is hiding somewhere in this site, can you find her<a href="images/find-the-missing-letters.png">?</a> 
+<!--    
 </div>
 </body>
-</html>
+</html> -->
 
 
