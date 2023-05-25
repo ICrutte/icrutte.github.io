@@ -59,7 +59,7 @@ body {
   <a href="fitness.html">Fitness</a>
   <a href="yes.html">Yes</a>
   <a href="class.html">Class</a>
-  <a href="images/disboi.jpg">Moth of judgement</a>
+  <a href="images/disboi.jpg"><img src="images/MofJ.png" alt="Moth of Judgement></a>
 </div>
 
 <div class="content">
